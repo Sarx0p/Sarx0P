@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=ffb6c1&center=true&vCenter=true&width=440&lines=To+darken+fading+summer+skies.+-+rises+the+moon.+🌸;" />
 
-![](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=80&section=header)
-
 ---
 
 ### ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ Sobre mí
