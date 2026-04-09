@@ -14,13 +14,15 @@
 
 
 ### ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚ Tecnologías
-
-![Vue](https://img.shields.io/badge/Vue.js-ffc8dd?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-f2c4ce?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-a2d2ff?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffd6ff?style=for-the-badge&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-ffb3c6?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-cdb4db?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffd6ff?style=for-the-badge&logo=javascript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-ffc8dd?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-bde0fe?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-a2d2ff?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 ---
