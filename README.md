@@ -28,12 +28,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-bde0fe?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-a2d2ff?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-###  𐔌˙. Estadísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sarx0p&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ffb6c1&icon_color=ffb6c1&text_color=c9a0dc&ring_color=ffb6c1" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarx0p&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ffb6c1&text_color=c9a0dc" width="48%">
 
 ---
 
@@ -48,6 +42,6 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80px">
 
-*made with my hearth*
+*°❀⋆.ೃ࿔made with my hearth °❀⋆.ೃ࿔*
 
 </div>
