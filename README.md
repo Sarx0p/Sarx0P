@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120px">
-
 <h1> Hi 𐔌՞. .՞𐦯, soy Mimi!! </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=ffb6c1&center=true&vCenter=true&width=440&lines=To+darken+fading+summer+skies.+-+rises+the+moon.+🌸;" />
-
-<br>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=80&section=header)
 
